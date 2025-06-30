@@ -160,4 +160,3 @@ def set_template(args):
         args.vae_hidden_dim = 600
         args.vae_latent_dim = 200
         args.vae_dropout = 0.5
-
